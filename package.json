@@ -1,0 +1,26 @@
+{
+ 
+  "scripts": {
+ 
+   
+  "dev": "parcel watch index.html",
+ 
+   
+  "build": "parcel build index.html"
+ 
+  },
+ 
+  "devDependencies": {
+ 
+   
+  "@parcel/transformer-sass": "^2.8.2"
+ 
+  },
+ 
+  "dependencies": {
+ 
+   
+  "air-datepicker": "^3.3.3"
+ 
+  }
+}
